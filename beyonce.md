@@ -10,6 +10,7 @@ had been modified. The correct settings for each of these options are:
 > Enabled, with translation
 
 * Multilanguage options:
+
 > Set current language as default for new content. (TRUE)  
 > Require language (Do not allow Language Neutral). (TRUE)  
 > Lock language (Cannot be changed). (TRUE)  
