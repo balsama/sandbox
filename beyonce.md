@@ -6,14 +6,12 @@ Multilingual Support being disabled, each content type's Multilanguage options
 had been modified. The correct settings for each of these options are:
 
 * Multilingual Support:
-
-> Enabled, with translation
+    * Enabled, with translation
 
 * Multilanguage options:
-
-> Set current language as default for new content. (TRUE)  
-> Require language (Do not allow Language Neutral). (TRUE)  
-> Lock language (Cannot be changed). (TRUE)  
+    * Set current language as default for new content. (TRUE)  
+    * Require language (Do not allow Language Neutral). (TRUE)  
+    * Lock language (Cannot be changed). (TRUE)  
 
 Resetting these options to their proper value addresses and fixes the first
 three issues.
