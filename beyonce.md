@@ -1,4 +1,11 @@
-#Translation Problems#
+#Beyonce Website Issues#
+
+1. CMS NOT PRE-POPULATING WITH GLOBAL CONTENT
+2. IN NON-US/GLOBAL CMS, UNTRANSLATED CONTENT IS NOT SAVING
+3. DUPLICATES OF PULSE NYC in the CMS
+4. STAGING SITE MENU CACHE
+
+##Translation Problems (first 3 issues)##
 
 The first three issues are all symptoms of the same misconfiguration. At some
 point, each content type had its Multilingual Support disabled. In addition to
@@ -39,7 +46,7 @@ values. But storing the configuration as flat files via Strongarm and Features
 will allow us to quickly see if any manual changes have been made and revert to
 the previous state if necessary.
 
-#Menu Problems#
+#Menu Problems (4th issue)#
 
 We didn't find an obvious culprit here. We did find that the path in the Views
 module (used to generate this page) had an unnecessary argument in it. This
