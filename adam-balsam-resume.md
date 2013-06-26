@@ -43,7 +43,7 @@ Work Experience
 
 **Signal Service Support Specialist - 31U** (US Army), *1996 - 2000*
 > Initially served as Company-level communications specialist followed by Team
-> Leader at the Battalion level after making the rank of Sergeant E5.
+> Leader at the Battalion level.
 
 Skills
 ------
@@ -56,10 +56,16 @@ Skills
 * Comfortable using command line as well as OS X and Windows
 * Strong troubleshooter
 
+Education
+---------
+**Information Science** (Northeastern University), *2003 - 2005*
+> Non-degree course study including Structured Systems analysis and design, OOP
+> and Programming Logic.
+
 Outside Interest
 ----------------
 
 * Biking Boston and hiking New Hampshire
 * Too competitive softball
-* (Slow) speed cubing
+* (Slow) speed cubing and algorithms
 
