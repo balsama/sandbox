@@ -4,10 +4,10 @@ Adam Balsam
 Experienced applications developer with a focus on Drupal, PHP and Open Source
 software.
 
-> 162 Commercial Street
+> 162 Commercial Street  
 > Boston, MA 02109
 
-> balsam.adam@gmail.com
+> balsam.adam@gmail.com  
 > 617.378.5105
 
 Work Experience
