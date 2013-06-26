@@ -4,11 +4,11 @@ Adam Balsam
 Experienced applications developer with a focus on Drupal, PHP and Open Source
 software.
 
-> 162 Commercial Street  
-> Boston, MA 02109
-
 > balsam.adam@gmail.com  
 > 617.378.5105
+
+> 162 Commercial Street  
+> Boston, MA 02109
 
 Work Experience
 ---------------
@@ -41,7 +41,7 @@ Work Experience
 **Technical Trainer** (General Dynamics), *2000 - 2006*
 > Developed and delivered training material on TCP/IP based tactical networks.
 
-**Signal Service Support Specialiast - 31U** (US Army), *1996 - 2000*
+**Signal Service Support Specialist - 31U** (US Army), *1996 - 2000*
 > Initially served as Company-level communications specialist followed by Team
 > Leader at the Battalion level after making the rank of Sergeant E5.
 
